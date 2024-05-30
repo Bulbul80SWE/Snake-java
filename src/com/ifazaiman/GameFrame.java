@@ -1,4 +1,4 @@
-package com.ifazaiman;
+package com.hridi;
 
 import javax.swing.JFrame;
 
